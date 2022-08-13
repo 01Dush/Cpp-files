@@ -2,7 +2,7 @@
 <p>&nbsp;</p>
 <p>User inputs the size <code>n</code> and <code>m</code> of two arrays <code>A[]</code> and <code>B[]</code> and then accordingly input the arrays. The program then asks for the <code>Sum</code> for which pairs whose sum equal to the <code>Sum</code> is required.</p> 
   
-<p>Program then oututs the exact pairs whose sum is equal to the <code>Sum</code>.</p>
+<p>Program then outputs the exact pairs whose sum is equal to the <code>Sum</code>.</p>
 
 <p><strong>Example:</strong></p>
 
