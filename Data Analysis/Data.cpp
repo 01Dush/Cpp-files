@@ -85,7 +85,7 @@ int main()
 {
     int x;
     std::cout << "Turing Moore Engineering Environmental Data Analyser 1.0" << std::endl; // Welcome page
-    std::cout << "Your Name" << std::endl;                                                // Display your name
+    std::cout << "Dushyant Sharma" << std::endl;                                          // Display your name
     std::cout << "Your Student ID" << std::endl;                                          // Display Your Student ID
     std::cout << "Date the assignment is due in the format: dd/mm/yyyy" << std::endl;     // Due Date, It's a great movie watch it
     std::cout << "The level of mark you are aiming to achieve" << std::endl;              // Marks
